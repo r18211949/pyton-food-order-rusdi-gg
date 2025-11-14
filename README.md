@@ -1,6 +1,6 @@
 # 🍔 Food Ordering CLI — Python Project
 
-Sistem pemesanan makanan baris perintah sederhana yang ditulis dalam Python. Proyek ini dirancang untuk pemula yang ingin mempraktekkan konsep pemrograman dasar seperti input / output, loop, conditionals, penanganan file, dan struktur data sederhana.
+Sistem pemesanan makanan baris perintah sederhana yang ditulis dalam Python. Proyek ini dirancang untuk pemula yang ingin mempraktekkan konsep pemrograman dasar seperti input / output, loop, conditionals, penanganan file, dan struktur data sederhana hehehe
 ---
 
 ## 📌 Overview
