@@ -125,7 +125,7 @@ python main.py
 
 ## 📜 License
 
-Projek ini dapat menggunakan lisensi MIT (opsional). Jika ingin ditambahkan, beri tahu saya.
+Projek ini dapat menggunakan lisensi MIT (opsional).
 
 ---
 
